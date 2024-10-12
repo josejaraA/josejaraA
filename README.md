@@ -19,7 +19,7 @@ Actualmente, estoy trabajando en proyectos que involucran análisis de datos y l
 - **Machine Learning**: Regresión, Clasificación, Clustering, Sistemas de Recomendación
 - **Bases de Datos**: Google BigQuery, SQL
 - **Cloud Computing**: Google Cloud Platform (GCP)
-- **Metodologías**: Scrum, Agile
+
 
 
 
